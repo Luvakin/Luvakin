@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luvakin
 - 👀 I’m interested in backend development 
-- 🌱 I’m currently learning python and flask framework 
+- 🌱 I’m currently learning python and django 
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me akinwalearemu0@gmail.com 
 
