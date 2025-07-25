@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css)
+
 ![ESP32](https://img.shields.io/badge/-ESP32-grey?style=flat&logo=esphome)
 
 ---
