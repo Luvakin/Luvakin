@@ -6,7 +6,7 @@
 
 ### 🧠 About Me
 
-- 🧑‍💻 I’m **AKINWALE**, a passionate developer from Nigeria.
+- 🧑‍💻 Hello I’m **AKINWALE**
 - 🔭 Currently working on: **IoT**, **LLM-powered apps**, **Django** and other cool projects.
 - 🌱 Learning: ANYTHING I FIND INTERESTING
 - 🎯 Goal: Build scalable tools that solve real-world problems.
