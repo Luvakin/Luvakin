@@ -35,7 +35,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/-@Luvakin-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Twitter](https://img.shields.io/badge/-@Luvakin-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Akinwal3)
 
 ---
 
