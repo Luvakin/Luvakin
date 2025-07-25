@@ -47,3 +47,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FF61C7&center=true&vCenter=true&width=435&lines=I+love+building+cool+stuff+🛠️;Always+learning+📚;Let%E2%80%99s+collaborate!+🤝"/>
 </p>
 
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
