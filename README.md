@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 
 <h2 align="center">Welcome to my GitHub 👋</h2>
 
@@ -8,9 +6,9 @@
 
 ### 🧠 About Me
 
-- 🧑‍💻 I’m **Luvakin**, a passionate developer from Nigeria.
-- 🔭 Currently working on: **IoT**, **LLM-powered apps**, and **Django** projects.
-- 🌱 Learning: React, Docker, and Cloud-native architecture.
+- 🧑‍💻 I’m **AKINWALE**, a passionate developer from Nigeria.
+- 🔭 Currently working on: **IoT**, **LLM-powered apps**, **Django** and other cool projects.
+- 🌱 Learning: ANYTHING I FIND INTERESTING
 - 🎯 Goal: Build scalable tools that solve real-world problems.
 
 ---
@@ -41,6 +39,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FF61C7&center=true&vCenter=true&width=435&lines=I+love+building+cool+stuff+🛠️;Always+learning+📚;Let%E2%80%99s+collaborate!+🤝"/>
-</p>
+
